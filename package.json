@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpmckenna8/howInpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpmckenna8/howInpm/issues"
+  },
+  "homepage": "https://github.com/mpmckenna8/howInpm#readme"
 }
